@@ -10,5 +10,5 @@
 ![Image of Yaktocat](循序圖.jpg)
 ![Image of Yaktocat](測試計畫.jpg)
 ![Image of Yaktocat](進度報告1.jpg)
-![Image of Yaktocat](進度報告2.jpg)
+![Image of Yaktocat](進度報告2.pg)
 ![Image of Yaktocat](地圖.jpg)
